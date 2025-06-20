@@ -12,28 +12,23 @@ Metallica – 91 total sales
 Led Zeppelin - 87 total sales 
 Os Paralamas Do Sucesso - 45 total sales 
 
-The average total sales across all artists was 21. Iron Maiden outperformed this average by 119 sales, exceeding the mean by over 560%, indicating significant popularity and commercial viability. U2 also performed notably, with sales exceeding the average by 410%.
+The average total sales across all artists was 21. Iron Maiden outperformed this average by 119 sales, making Iron Maiden 6.6 times more popular than the average artist, indicating significant popularity and commercial viability. U2 also performed notably well with their sales being 5 times higher than the average. 
 
 <img width="346" alt="image" src="https://github.com/user-attachments/assets/fb539c0e-7d13-48b2-a0a5-709e6ea76d44" />
 
 
 
 
-
-
-Insert graph
-
-🎶 Top Selling Genres
+Top Selling Genres
 
 Rock was the most purchased genre by a large margin, with 835 total sales, followed by Latin music at 386 total sales. The average sales across all genres was 93, positioning Rock as:
-
-Over 8.9 times more popular than the genre average
-
-37% of all track sales within the Chinook store
+Over 8.9 times more popular than the genre average.
+Accounting for 37% of all track sales within the Chinook store.
 
 Latin music, while distant from Rock, still represented a significant portion of sales, indicating a strong international and multicultural interest.
 
-Insert graph
+![image](https://github.com/user-attachments/assets/49e4cb91-4afa-4eea-bd8c-409b7b412762)
+
 
 🌐 Genre Preferences by Country
 
