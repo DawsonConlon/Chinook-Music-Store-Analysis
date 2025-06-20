@@ -7,14 +7,19 @@ This report presents a comprehensive SQL/Excel-based analysis of the Chinook dig
 The analysis identified the five highest-selling artists based on the number of tracks sold:
 
 Iron Maiden – 140 total sales
+
 U2 – 107 total sales
+
 Metallica – 91 total sales
+
 Led Zeppelin - 87 total sales 
+
 Os Paralamas Do Sucesso - 45 total sales 
 
 The average total sales across all artists was 21. Iron Maiden outperformed this average by 119 sales, making Iron Maiden 6.6 times more popular than the average artist, indicating significant popularity and commercial viability. U2 also performed notably well with their sales being 5 times higher than the average. 
 
-<img width="346" alt="image" src="https://github.com/user-attachments/assets/fb539c0e-7d13-48b2-a0a5-709e6ea76d44" />
+![image](https://github.com/user-attachments/assets/1760d40e-b903-4ffb-b5b7-9aeb0b5033e5)
+
 
 
 
