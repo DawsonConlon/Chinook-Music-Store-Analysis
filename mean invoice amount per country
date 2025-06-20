@@ -1,0 +1,15 @@
+SELECT c.Country,
+	   COUNT(DISTINCT i.InvoiceId) AS NumberOfInvoices,
+	   SUM(il.UnitPrice * il.Quantity) AS TotalRevenue,
+	   AVG(InvoiceTotalPerInvoice) AS AvgInvoiceAmount
+
+FROM Customer c
+JOIN Invoice i ON c.CustomerId = i.CustomerId
+JOIN InvoiceLine il ON i.InvoiceId = il.InvoiceId
+JOIN(
+SELECT InvoiceId, SUM(UnitPrice * Quantity) AS InvoiceTotalPerInvoice
+FROM InvoiceLine
+GROUP BY InvoiceId
+) invoice_totals ON i.InvoiceId = invoice_totals.InvoiceId
+GROUP BY c.Country
+ORDER BY  AvgInvoiceAmount DESC;
