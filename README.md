@@ -27,12 +27,15 @@ The average total sales across all artists was 21. Iron Maiden outperformed this
 Top Selling Genres
 
 Rock was the most purchased genre by a large margin, with 835 total sales, followed by Latin music at 386 total sales. The average sales across all genres was 93, positioning Rock as:
+
 Over 8.9 times more popular than the genre average.
+
 Accounting for 37% of all track sales within the Chinook store.
 
 Latin music, while distant from Rock, still represented a significant portion of sales, indicating a strong international and multicultural interest.
 
-![image](https://github.com/user-attachments/assets/49e4cb91-4afa-4eea-bd8c-409b7b412762)
+![image](https://github.com/user-attachments/assets/f1629c99-da91-4647-b143-bd7272eb41d6)
+
 
 
 🌐 Genre Preferences by Country
