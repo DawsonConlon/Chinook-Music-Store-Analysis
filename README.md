@@ -136,3 +136,10 @@ Incentivize higher invoice values in high-volume, low-value regions like the USA
 Use genre preference insights per country to inform regional content offerings.
 
 
+
+Acknowledgments
+
+This project was developed using the open-source Chinook database. Special thanks to the creators of the Chinook dataset and to the wider data analytics community.
+https://github.com/lerocha/chinook-database?tab=readme-ov-file
+
+
