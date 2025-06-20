@@ -1,0 +1,10 @@
+SELECT c.Country,
+       g.Name AS Genre,
+       COUNT(*) AS Sales
+FROM Customer c
+JOIN Invoice i ON c.CustomerId = i.CustomerId
+JOIN InvoiceLine il ON i.InvoiceId = il.InvoiceId
+JOIN Track t ON il.TrackId = t.TrackId
+JOIN Genre g ON t.GenreId = g.GenreId
+GROUP BY c.Country, g.Name
+ORDER BY c.Country, Sales DESC;
