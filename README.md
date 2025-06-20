@@ -18,7 +18,8 @@ Os Paralamas Do Sucesso - 45 total sales
 
 The average total sales across all artists was 21. Iron Maiden outperformed this average by 119 sales, making Iron Maiden 6.6 times more popular than the average artist, indicating significant popularity and commercial viability. U2 also performed notably well with their sales being 5 times higher than the average. 
 
-![image](https://github.com/user-attachments/assets/1760d40e-b903-4ffb-b5b7-9aeb0b5033e5)
+![image](https://github.com/user-attachments/assets/473e648c-7a6c-45e5-8067-d976151d5510)
+
 
 
 
