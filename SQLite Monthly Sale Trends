@@ -1,0 +1,9 @@
+SELECT
+	STRFTIME('%Y-%m', i.InvoiceDate) AS Month,
+	ROUND(SUM(il.UnitPrice * il.Quantity), 2) AS TotalRevenue,
+	COUNT(DISTINCT i.InvoiceId) AS NumInvoices,
+	ROUND(SUM(il.UnitPrice * il.Quantity) / COUNT(DISTINCT i.InvoiceId), 2) AS AvgRevenuePerInvoice
+FROM Invoice i
+JOIN InvoiceLine il ON i.InvoiceId = il.InvoiceId
+GROUP BY STRFTIME('%Y-%m', i.InvoiceDate)
+ORDER BY Month;
