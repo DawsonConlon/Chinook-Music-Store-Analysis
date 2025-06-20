@@ -1,8 +1,8 @@
 Executive Summary
 
-This report presents a comprehensive SQL/Excel-based analysis of the Chinook digital music store. The insights revealed here offer a detailed understanding of customer behaviour, artist and genre performance, and geographic revenue distribution. Using the Chinook database, I have crafted targeted business intelligence findings designed to inform better decision-making for music product marketing, sales strategies, and expansion planning. The data includes three years of customer activity and 412 invoices included within the analysis. 
+This report presents a comprehensive SQL/Excel-based analysis of the Chinook digital music store. The insights revealed here offer a detailed understanding of customer behaviour, artist and genre performance, and geographic revenue distribution and store performance. Using the Chinook database, I have crafted targeted business intelligence findings designed to inform better decision-making for music product marketing, sales strategies, and expansion planning. The data includes three years of customer activity and 412 invoices included within the analysis. 
 
- Top Performing Artists.
+Top Performing Artists.
 
 The analysis identified the five highest-selling artists based on the number of tracks sold:
 
@@ -67,7 +67,7 @@ Canada – $303.96 (13% of total revenue).
 
 Together, North America accounted for 35% of total revenue. While North America remains crucial for business success, significant contributions from European and South American markets indicate global viability and point to the opportunity for localized expansion.
 
-![image](https://github.com/user-attachments/assets/a30ada23-5fe9-4a23-a666-04bac8898761)
+![image](https://github.com/user-attachments/assets/207367db-f473-4e00-891c-cf9b2eeb0374)
 
 
 ![image](https://github.com/user-attachments/assets/b6a73935-f5ec-4ff8-993f-0d9dfd4734d7)
@@ -86,6 +86,21 @@ European countries led in terms of the highest average invoice amounts, suggesti
 These findings suggest a potential to increase value per customer in high-volume countries like the USA, and to further nurture high-value customers in Europe.
 
 ![image](https://github.com/user-attachments/assets/04a2ba23-10bd-48e5-8cd9-cfd5088413cb)
+
+
+Monthly Revenue 
+
+Over the course of three years the average monthly revenue is 38.81$.
+
+Four Positive spikes were observed occurring in the early days of January, April, June, and November. 
+
+Two Negative spikes occurred in November (down 39% from the average) and February (down 29% from the average). 
+
+![image](https://github.com/user-attachments/assets/8f82640c-5ce7-4eb6-bba7-0ef7e13ca35f)
+
+
+
+
 
 
 Methodology.
