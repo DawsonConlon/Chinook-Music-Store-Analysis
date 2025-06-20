@@ -1,0 +1,6 @@
+SELECT c.Country, SUM(il.UnitPrice * il.Quantity) AS TotalRevenue
+FROM Customer c
+JOIN Invoice i ON c.CustomerId = i.CustomerId
+JOIN InvoiceLine il ON i.InvoiceId = il.InvoiceId
+GROUP BY c.Country
+ORDER BY TotalRevenue DESC;
